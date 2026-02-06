@@ -30,9 +30,9 @@ How to run?
 STEPS:
 Clone the repository
 
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+ https://github.com/Ibrarhussainmughal/kidney_Disease_Classfication_MLflow_DVC
 STEP 01- Create a conda environment after opening the repository
-conda create -n cnncls python=3.8 -y
-conda activate cnncls
+conda create -n kidney_disease python=3.10 -y
+conda activate kidney_disease
 STEP 02- install the requirements
 pip install -r requirements.txt
